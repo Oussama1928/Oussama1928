@@ -18,5 +18,5 @@ Backend / Fullstack Engineer passionate about building scalable applications and
 
 ## Contact
 
-- **LinkedIn:** [https://www.linkedin.com/in/oussama-ben-slima/](#)  
+- **LinkedIn:** [Oussama Ben Slima](https://www.linkedin.com/in/oussama-ben-slima/)   
 - **Email:** bsoussema12@gmail.com
