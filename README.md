@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Oussama !
 
-<!--
-**Oussama1928/Oussama1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Fullstack Engineer passionate about building scalable applications and exploring software architecture. Skilled in Java, Python, C++, SQL, and more modern web technologies. I enjoy developing projects from backend services to interactive web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Skills
+
+**Languages:** Java, SpringBoot, C++, Python, Flask, C#, JavaScript, TypeScript
+**DevOps & Tools:** Docker, CI/CD, Git, Kubernetes, Terraform, Google Cloud, OpenStack 
+**Big Data Tools:** Kafka, Hadoop, Spark, Elasticsearch
+**AI/ML:** TensorFlow, PyTorch, Scikit-Learn
+
+---
+
+## Contact
+
+- **LinkedIn:** [https://www.linkedin.com/in/oussama-ben-slima/](#)  
+- **Email:** bsoussema12@gmail.com
