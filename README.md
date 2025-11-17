@@ -7,8 +7,11 @@ Backend / Fullstack Engineer passionate about building scalable applications and
 ## Technologies & Skills
 
 **Languages:** Java, SpringBoot, C++, Python, Flask, C#, JavaScript, TypeScript
+
 **DevOps & Tools:** Docker, CI/CD, Git, Kubernetes, Terraform, Google Cloud, OpenStack 
+
 **Big Data Tools:** Kafka, Hadoop, Spark, Elasticsearch
+
 **AI/ML:** TensorFlow, PyTorch, Scikit-Learn
 
 ---
